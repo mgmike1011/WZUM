@@ -1,0 +1,6 @@
+{
+ "LinearSVC": 0.8666666666666667,
+ "SVC": 0.9666666666666667,
+ "RandomForestClassifier": 0.9333333333333333,
+ "DecisionTreeClassifier": 0.9333333333333333
+}
