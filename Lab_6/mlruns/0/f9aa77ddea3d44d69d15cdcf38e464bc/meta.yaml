@@ -1,0 +1,15 @@
+artifact_uri: file:///home/milosz/RiSA_1/WZUM/Lab_6/mlruns/0/f9aa77ddea3d44d69d15cdcf38e464bc/artifacts
+end_time: 1681722523042
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f9aa77ddea3d44d69d15cdcf38e464bc
+run_name: delightful-snake-306
+run_uuid: f9aa77ddea3d44d69d15cdcf38e464bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681722523033
+status: 3
+tags: []
+user_id: milosz

@@ -1,0 +1,3 @@
+#!/home/milosz/RiSA_1/WZUM/bin/python
+from numba.pycc import main
+main()

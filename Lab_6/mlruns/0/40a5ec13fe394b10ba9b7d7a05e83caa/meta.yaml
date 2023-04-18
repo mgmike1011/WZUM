@@ -1,0 +1,15 @@
+artifact_uri: file:///home/milosz/RiSA_1/WZUM/Lab_6/mlruns/0/40a5ec13fe394b10ba9b7d7a05e83caa/artifacts
+end_time: 1681722662792
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 40a5ec13fe394b10ba9b7d7a05e83caa
+run_name: sneaky-squirrel-180
+run_uuid: 40a5ec13fe394b10ba9b7d7a05e83caa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681722662778
+status: 3
+tags: []
+user_id: milosz
